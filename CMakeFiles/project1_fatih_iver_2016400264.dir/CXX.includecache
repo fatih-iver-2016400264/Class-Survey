@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Desktop/Project_1/project1-fatih-iver-2016400264/LinkedList.h
+iostream
+-
+Node.h
+/home/student/Desktop/Project_1/project1-fatih-iver-2016400264/Node.h
+
+/home/student/Desktop/Project_1/project1-fatih-iver-2016400264/Member.h
+iostream
+-
+string
+-
+
+/home/student/Desktop/Project_1/project1-fatih-iver-2016400264/Node.h
+cstddef
+-
+iostream
+-
+Member.h
+/home/student/Desktop/Project_1/project1-fatih-iver-2016400264/Member.h
+
+/home/student/Desktop/Project_1/project1-fatih-iver-2016400264/SurveyClass.cpp
+SurveyClass.h
+/home/student/Desktop/Project_1/project1-fatih-iver-2016400264/SurveyClass.h
+map
+-
+string
+-
+iterator
+-
+
+/home/student/Desktop/Project_1/project1-fatih-iver-2016400264/SurveyClass.h
+LinkedList.h
+/home/student/Desktop/Project_1/project1-fatih-iver-2016400264/LinkedList.h
+string
+-
+

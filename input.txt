@@ -1,0 +1,4 @@
+3
+Ali 23 Blue
+Ayse 23 Green
+Fatma 23 Blue

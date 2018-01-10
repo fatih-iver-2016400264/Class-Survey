@@ -1,0 +1,6 @@
+5
+Ahmet 24 Blue
+Mehmet 16 Brown
+Serkan 20 Blue
+Melek 40 Brown
+Elif 0 Brown

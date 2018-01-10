@@ -1,0 +1,11 @@
+10
+Nalan 34 Black
+Duygu 23 Black
+Hakan 40 Orange
+Duygu 98 Green
+Nazan 8 Black
+Nihan 36 Yellow
+Metin 68 Grey
+Okan 81 Red
+Ali 33 Purple
+Nazan 31 Grey
